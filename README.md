@@ -9,4 +9,4 @@ It's a mini project for test of normal data structures such as array and linked 
 - assert_array(): Test for array.
 
 ### Screenshot
-![picture](test.png)
+![](images/ctest.png)
